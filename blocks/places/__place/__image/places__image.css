@@ -1,21 +1,21 @@
-.places__place__image {
+.places__image {
     width: 460px;
 }
 
 @media (max-width: 1279px) {
-    .places__place__image {
+    .places__image {
         width: 440px;
     }
 }
 
 @media (max-width: 1023px) {
-    .places__place__image {
+    .places__image {
         width: 340px;
     }
 }
 
 @media (max-width: 767px) {
-    .places__place__image {
+    .places__image {
         width: 320px;
     }
 }
