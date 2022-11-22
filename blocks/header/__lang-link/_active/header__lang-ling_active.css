@@ -1,0 +1,5 @@
+.header__lang-link_active {
+    color: #fff;
+    text-decoration: underline;
+    margin-left: 18px;
+}
