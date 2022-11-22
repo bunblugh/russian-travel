@@ -1,13 +1,6 @@
 .page {
     font-family: "Inter", sans-serif;
-    min-width: 1280px;
     background-color: #2A2C2F;
     margin: 0;
     text-rendering: optimizeLegibility;
-}
-
-@media (max-width: 1024px) {
-    .page {
-        margin: 0;
-    }
 }
