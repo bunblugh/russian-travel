@@ -8,12 +8,12 @@
 
 @media (max-width: 1023px) {
     .intro__text {
-        max-width: 720px
+        max-width: 720px;
     }
 }
 
 @media (max-width: 767px) {
     .intro__text {
-        max-width: 288px
+        max-width: 288px;
     }
 }
