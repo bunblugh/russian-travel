@@ -11,5 +11,5 @@
 * *Grid - layout*
 * *Адаптивная и отзывчивая верстка*
 ### *Прочее*
-Ссылка на GitHub Pages: 
+Ссылка на GitHub Pages: https://bunblugh.github.io/russian-travel
 Весь проект написан на **HTML** и **CSS**.
