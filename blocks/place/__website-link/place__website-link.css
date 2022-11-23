@@ -1,0 +1,12 @@
+.place__website-link {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: white;
+}
+
+@media (max-width: 767px) {
+    .place__website-link {
+        margin-left: 16px;
+    }
+}

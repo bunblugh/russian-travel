@@ -1,16 +1,16 @@
-.places__website {
+.place__website {
     align-self: end;
     max-width: 456px;
 }
 
 @media (max-width: 1023px) {
-    .places__website {
+    .place__website {
         max-width: 352px;
     }
 }
 
 @media (max-width: 767px) {
-    .places__website {
+    .place__website {
         max-width: 288px;
     }
 }
