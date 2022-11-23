@@ -3,6 +3,11 @@
     font-size: 18px;
     line-height: 22px;
     color: white;
+    transition: opacity .4 ease;
+}
+
+.place__website-link:hover{
+    opacity: 0.8;
 }
 
 @media (max-width: 767px) {
